@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+#npm run build && bundle && bundle exec rackup config.ru
+
+npm run build && bundle && bundle exec middleman --port 8887

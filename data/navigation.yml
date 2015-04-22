@@ -1,0 +1,25 @@
+items:
+
+- title: General 
+  path: /index.html
+  items: 
+
+  - title: Authentication
+    path: /authentication.html
+    items: []
+
+  - title: Content-Type
+    path: /content-type.html
+    items: []
+
+- title: Resources
+  path: /resources/index.html
+  items: []
+#  items:
+#  - title: Initial Setup
+#    path:  /install/setup.html
+#  - title: Upgrade
+#    path:  /install/upgrade.html
+#  - title: Executors
+#    path:  /install/executors.html
+#
